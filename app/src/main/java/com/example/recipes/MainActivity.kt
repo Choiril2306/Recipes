@@ -227,5 +227,80 @@ val recipeList = listOf(
         name = "Udang Saus Padang",
         description = "Udang segar yang dimasak dengan saus pedas berbumbu khas Padang, cocok sebagai lauk atau camilan.",
         imageRes = R.drawable.udang_saus_padang
+    ),Recipe(
+        name = "Ayam Betutu Bali",
+        description = "Ayam utuh yang dimasak dengan rempah-rempah khas Bali seperti kunyit, serai, bawang, dan cabai, lalu dibungkus daun pisang dan dimasak hingga empuk. Hidangan ini memiliki aroma rempah yang kuat dan rasa pedas yang menggoda.",
+        imageRes = R.drawable.ayam_betutu_bali
     ),
+    Recipe(
+        name = "Ayam Bakar Taliwang",
+        description = "Ayam bakar khas Lombok yang dimarinasi dengan bumbu rempah pedas, kemudian dibakar hingga harum dan memiliki rasa gurih pedas. Hidangan ini disajikan dengan plecing kangkung dan sambal terasi khas Lombok yang menyegarkan.",
+        imageRes = R.drawable.ayam_bakar_taliwang
+    ),
+    Recipe(
+        name = "Ikan Asam Pedas",
+        description = "Ikan segar yang dimasak dengan kuah asam pedas berbahan dasar tomat, cabai, dan asam kandis. Hidangan ini memiliki rasa asam segar yang berpadu dengan pedas menggigit, cocok disantap dengan nasi putih hangat.",
+        imageRes = R.drawable.ikan_asam_pedas
+    ),
+    Recipe(
+        name = "Sop Buntut",
+        description = "Sup yang terbuat dari buntut sapi yang dimasak hingga empuk, dengan kuah kaldu bening yang kaya rasa. Ditambah potongan wortel, kentang, dan daun bawang, hidangan ini menjadi sajian yang memanjakan lidah.",
+        imageRes = R.drawable.sop_buntut
+    ),
+    Recipe(
+        name = "Martabak Manis",
+        description = "Martabak manis dengan tekstur lembut dan tebal, diisi dengan keju parut, coklat meses, kacang, dan susu kental manis. Setiap gigitan memberikan kombinasi rasa manis, gurih, dan creamy yang sempurna.",
+        imageRes = R.drawable.martabak_manis
+    ),
+    Recipe(
+        name = "Siomay Bandung",
+        description = "Siomay dari ikan tenggiri yang disajikan dengan kentang rebus, kol gulung, tahu kukus, dan telur, semuanya disiram dengan bumbu kacang kental, kecap manis, dan perasan jeruk limau.",
+        imageRes = R.drawable.siomay_bandung
+    ),
+    Recipe(
+        name = "Es Campur Medan",
+        description = "Minuman segar yang terdiri dari campuran alpukat, kelapa muda, cincau, tape singkong, kolang-kaling, dan potongan buah-buahan, disiram dengan santan, sirup merah, dan es serut. Rasanya manis, segar, dan sangat menggugah selera.",
+        imageRes = R.drawable.es_campur_medan
+    ),
+    Recipe(
+        name = "Es Cendol Pandan",
+        description = "Minuman tradisional yang terbuat dari cendol berbahan dasar tepung beras dengan aroma pandan, disajikan dengan santan segar, gula merah cair, dan es batu. Rasanya manis, gurih, dan menyegarkan.",
+        imageRes = R.drawable.es_cendol_pandan
+    ),
+    Recipe(
+        name = "Milkshake Coklat Oreo",
+        description = "Perpaduan susu segar, es krim coklat, dan remahan Oreo yang diblender hingga lembut. Disajikan dengan topping whipped cream dan Oreo utuh di atasnya, minuman ini memanjakan pecinta coklat dengan sensasi manis dan creamy.",
+        imageRes = R.drawable.milkshake_coklat_oreo
+    ),
+    Recipe(
+        name = "Wedang Jahe",
+        description = "Minuman tradisional dari jahe yang direbus dengan gula merah, serai, dan daun pandan. Rasanya hangat, pedas, dan menenangkan, sangat cocok dinikmati saat cuaca dingin atau tubuh sedang kurang fit.",
+        imageRes = R.drawable.wedang_jahe
+    ),
+    Recipe(
+        name = "Es Soda Gembira",
+        description = "Minuman sederhana namun ikonik yang terbuat dari campuran susu kental manis, sirup merah, dan soda bening. Rasanya manis, creamy, dan menyegarkan dengan sensasi soda yang menyenangkan.",
+        imageRes = R.drawable.es_soda_gembira
+    ),
+    Recipe(
+        name = "Es Susu Kurma",
+        description = "Minuman sehat berbahan dasar susu segar yang dicampur dengan kurma matang, diblender hingga halus. Minuman ini kaya akan rasa manis alami dari kurma dan memberikan energi instan yang menyegarkan.",
+        imageRes = R.drawable.es_susu_kurma
+    ),
+    Recipe(
+        name = "Es Teh Tarik",
+        description = "Minuman khas yang menggabungkan teh hitam pekat dengan susu kental manis, lalu dituangkan bolak-balik hingga menghasilkan busa yang menggoda. Rasanya lembut, manis, dan segar, cocok dinikmati dalam suasana santai.",
+        imageRes = R.drawable.es_teh_tarik
+    ),
+    Recipe(
+        name = "Es Jeruk Nipis Madu",
+        description = "Minuman sehat yang menggabungkan perasan jeruk nipis segar dengan madu alami, disajikan dingin dengan tambahan es batu. Rasanya asam manis menyegarkan sekaligus menyehatkan tubuh.",
+        imageRes = R.drawable.es_jeruk_nipis_madu
+    ),
+    Recipe(
+        name = "Smoothie Berry Mix",
+        description = "Minuman sehat berbahan dasar yogurt dan campuran buah beri seperti stroberi, blueberry, dan raspberry. Dibuat dengan tekstur lembut, rasanya manis asam segar dan sangat cocok untuk mengawali hari Anda.",
+        imageRes = R.drawable.smoothie_berry_mix
+    ),
+
 )
